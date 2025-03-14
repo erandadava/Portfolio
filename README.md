@@ -27,7 +27,7 @@ I love **solving problems, learning new technologies**, and collaborating with t
 - Web & Backend Development  
 - Debugging & Troubleshooting  
 - Automated & Manual Testing  
-- API Performance Testing  
+- API Testing  
 
 ---
 
