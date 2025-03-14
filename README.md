@@ -70,7 +70,7 @@ I love **solving problems, learning new technologies**, and collaborating with t
 
 ## 📫 Let's Connect!  
 💼 **[LinkedIn](https://www.linkedin.com/in/dava-eranda)**  
-📂 **[GitHub](https://github.com/DavaEranda)**  
+📂 **[GitHub](https://github.com/erandadava)**  
 💌 **Email: erandadava@gmail.com**  
 
 ---
