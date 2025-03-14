@@ -1,6 +1,6 @@
 # Hi there, I'm Dava Eranda 👋
 
-👨‍💻 **QA Engineer | Back-End Developer | Project Manager**  
+👨‍💻 **QA Engineer | Back-End Developer | Web Development**  
 🌍 Based in Banten, Indonesia  
 📩 Reach me at **erandadava@gmail.com**  
 
